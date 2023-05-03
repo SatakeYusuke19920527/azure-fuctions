@@ -2,7 +2,7 @@
 
 ```
 func init . --worker-runtime node --language typescript
-func new --name myFunc --template "HTTP trigger" --language typescript
+func new --name myFunc2 --template "HTTP trigger" --language typescript
 ```
 
 ```

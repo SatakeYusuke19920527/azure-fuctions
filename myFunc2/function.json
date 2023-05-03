@@ -5,7 +5,10 @@
       "type": "httpTrigger",
       "direction": "in",
       "name": "req",
-      "methods": ["get", "post"]
+      "methods": [
+        "get",
+        "post"
+      ]
     },
     {
       "type": "http",
@@ -13,5 +16,5 @@
       "name": "res"
     }
   ],
-  "scriptFile": "../dist/myFunc/index.js"
+  "scriptFile": "../dist/myFunc2/index.js"
 }
